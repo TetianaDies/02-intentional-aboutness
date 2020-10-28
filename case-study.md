@@ -25,7 +25,7 @@ Beyond creating visual content, I was working on creating a coloring book for ch
 
 This coloring was made on the basis of drawings of sick children, who drew fantastic animals.The coloring 
 book was printed like a limited edition and was given to children for free. The best drawings of *fantastic 
-animals were exhibited at the Cherkasy regional art museum (Ukraine).
+animals were exhibited at the Cherkasy regional art museum (Ukraine).*
 The best children's drawings received a reward. It was a lot of fun to watch them try to explain what they drew.
 
 ![](/img/3.png)
