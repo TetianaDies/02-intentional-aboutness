@@ -10,5 +10,6 @@ The main goal wasn't to advertise any diseases, but just make children happy.
 ## Not just coloring book
 
 Beyond creating visual content, I was working on creating a coloring book for children.
-![](img/coloring 1.png)
+
+![GitHub Logo](img/coloring 1.png)
 
