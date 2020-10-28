@@ -11,18 +11,28 @@ The main goal wasn't to advertise any diseases, but just make children happy.
 
 Beyond creating visual content, I was working on creating a coloring book for children.
 
+<img src="/img/coloring 1.png" width="500">
+
 ![](/img/coloring 1.png)
 
+<img src="/img/Coloring 2.png" width="500">
+
 ![](/img/Coloring 2.png)
+
+<img src="/img/3 coloring.png" width="500">
 
 ![](/img/3 coloring.png)
 
 This coloring was made on the basis of drawings of sick children, who drew fantastic animals.The coloring 
-book was printed like a limited edition and was given to children for free. The best drawings of fantastic 
+book was printed like a limited edition and was given to children for free. The best drawings of *fantastic 
 animals were exhibited at the Cherkasy regional art museum (Ukraine).
 The best children's drawings received a reward. It was a lot of fun to watch them try to explain what they drew.
 
+<img src="/img/3.png" width="200">
+
 ![](/img/3.png)
+
+<img src="/img/4.png" width="200">
 
 ![](/img/4.png)
 
