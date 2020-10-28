@@ -12,7 +12,12 @@ The main goal wasn't to advertise any diseases, but just make children happy.
 Beyond creating visual content, I was working on creating a coloring book for children.
 
 ![](/02-intentional-aboutness/img/coloring 1.png)
+
 ![](/02-intentional-aboutness/img/Coloring 2.png)
+
+![](/02-intentional-aboutness/img/3 coloring.png)
+
+
 
 This coloring was made on the basis of drawings of sick children, who drew fantastic animals.The coloring 
 book was printed like a limited edition and was given to children for free. The best drawings of fantastic 
@@ -20,6 +25,7 @@ animals were exhibited at the Cherkasy regional art museum (Ukraine).
 The best children's drawings received a reward. It was a lot of fun to watch them try to explain what they drew.
 
 ![](/02-intentional-aboutness/img/3.png)
+
 ![](/02-intentional-aboutness/img/4.png)
 
 ## Design that makes sense
