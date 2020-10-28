@@ -17,11 +17,11 @@ Beyond creating visual content, I was working on creating a coloring book for ch
 
 <img src="/img/Coloring 2.png" width="500">
 
-![](/img/Coloring 2.png)
+
 
 <img src="/img/3 coloring.png" width="500">
 
-![](/img/3 coloring.png)
+
 
 This coloring was made on the basis of drawings of sick children, who drew fantastic animals.The coloring 
 book was printed like a limited edition and was given to children for free. The best drawings of *fantastic 
