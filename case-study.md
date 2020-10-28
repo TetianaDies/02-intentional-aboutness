@@ -11,5 +11,5 @@ The main goal wasn't to advertise any diseases, but just make children happy.
 
 Beyond creating visual content, I was working on creating a coloring book for children.
 
-![](/img/coloring 1.png)
+![](02-intentional-aboutness/img/coloring 1.png)
 
