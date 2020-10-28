@@ -6,4 +6,4 @@ art museum (Ukraine). The idea of the project is to create positive emotions in 
 treated at the Regional Center for Pediatric Oncology and Hematology of the Cherkasy Regional Oncology Center.
 A positive-minded child can more easily endure pain and suffering than a child who doesn't believe in healing.
 The main goal wasn't to advertise any diseases, but just make children happy.
-:simple_smile:
+ :simple_smile:
