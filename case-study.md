@@ -28,7 +28,7 @@ book was printed like a limited edition and was given to children for free. The 
 animals were exhibited at the Cherkasy regional art museum (Ukraine).*
 The best children's drawings received a reward. It was a lot of fun to watch them try to explain what they drew.
 
-<img src="/img/3.png" width="250"> <img src="/img/4.png" width="500">
+<img src="/img/3.png" width="175"> <img src="/img/4.png" width="400">
 
 
 
