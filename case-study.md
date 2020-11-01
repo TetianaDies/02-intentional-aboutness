@@ -1,4 +1,4 @@
- ## Vital project
+ # Vital project
  
 Make it simple and true, my basic rules in design. Based on this, I helped to bring one project to life.
 *Ukrainian charity project “The world of children's hopes”*  where I worked as part of the Cherkasy regional
