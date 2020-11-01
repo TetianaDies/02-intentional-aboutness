@@ -1,6 +1,6 @@
  # Vital project
  
-In 20XX, I had the opportunity to work as a designer, illustrator, and photographer to bring a charity project to life 
+In 2015, I had the opportunity to work as a designer, illustrator, and photographer to bring a charity project to life 
 that was simple and true, a basic but essential guiding design principle. The focus of the charity project The World 
 of Children’s Hopes for the Cherkasy Regional Art Museum in Ukraine was to promote the positive emotions in children 
 who were being treated at the Regional Center for Pediatric Oncology and Hematology of the Cherkasy Regional Oncology Center.
