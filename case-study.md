@@ -4,6 +4,9 @@ In 2015, I had the opportunity to work as a designer, illustrator, and photograp
 that was simple and true, a basic but essential guiding design principle. The focus of the charity project The World 
 of Children’s Hopes for the Cherkasy Regional Art Museum in Ukraine was to promote the positive emotions in children 
 who were being treated at the Regional Center for Pediatric Oncology and Hematology of the Cherkasy Regional Oncology Center.
+A positive-minded child can more easily endure the hardships of having a disease than a child who doesn't believe in 
+the possibilities of healing. The main goal of the project was to create a positive experience for the children by giving
+them a colorful new world of hope through the use of art and design.
 
 ## Not just coloring book
 
