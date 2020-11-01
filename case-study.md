@@ -12,15 +12,15 @@ them a colorful new world of hope through the use of art and design.
 
 Beyond creating visual content, I was working on creating a coloring book for children.
 
-<img src="/img/coloring 1.png" width="500">
+<img src="/img/1_coloring.jpg" width="500">
 
 
 
-<img src="/img/Coloring 2.png" width="500">
+<img src="/img/2_coloring.jpg" width="500">
 
 
 
-<img src="/img/3 coloring.png" width="500">
+<img src="/img/3_coloring.jpg" width="500">
 
 
 
@@ -29,7 +29,7 @@ book was printed like a limited edition and was given to children for free. The 
 animals were exhibited at the Cherkasy regional art museum (Ukraine).*
 The best children's drawings received a reward. It was a lot of fun to watch them try to explain what they drew.
 
-<img src="/img/3.png" width="175"> <img src="/img/4.png" width="400">
+<img src="/img/4_coloring.jpg" width="175"> 
 
 
 
